@@ -53,3 +53,10 @@ D:\DatingApp\api\obj\Debug\net6.0\API.genruntimeconfig.cache
 D:\DatingApp\api\obj\Debug\net6.0\ref\API.dll
 D:\DatingApp\api\bin\Debug\net6.0\Humanizer.dll
 D:\DatingApp\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DatingApp\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\DatingApp\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
