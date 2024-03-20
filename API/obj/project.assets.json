@@ -2058,11 +2058,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\DatingApp\\API\\API.csproj",
+      "projectUniqueName": "D:\\DattingApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "d:\\DatingApp\\API\\API.csproj",
+      "projectPath": "D:\\DattingApp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\ottti\\.nuget\\packages\\",
-      "outputPath": "d:\\DatingApp\\API\\obj\\",
+      "outputPath": "D:\\DattingApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ottti\\AppData\\Roaming\\NuGet\\NuGet.Config"

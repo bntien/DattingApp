@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DatingApp\\API\\API.csproj": {}
+    "D:\\DattingApp\\api\\API.csproj": {}
   },
   "projects": {
-    "D:\\DatingApp\\API\\API.csproj": {
+    "D:\\DattingApp\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "D:\\DattingApp\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\DatingApp\\API\\API.csproj",
+        "projectPath": "D:\\DattingApp\\api\\API.csproj",
         "packagesPath": "C:\\Users\\ottti\\.nuget\\packages\\",
-        "outputPath": "D:\\DatingApp\\API\\obj\\",
+        "outputPath": "D:\\DattingApp\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ottti\\AppData\\Roaming\\NuGet\\NuGet.Config"
