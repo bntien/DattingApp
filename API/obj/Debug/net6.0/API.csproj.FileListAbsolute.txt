@@ -122,3 +122,6 @@ D:\DattingApp\API\obj\Debug\net6.0\refint\API.dll
 D:\DattingApp\API\obj\Debug\net6.0\API.pdb
 D:\DattingApp\API\obj\Debug\net6.0\API.genruntimeconfig.cache
 D:\DattingApp\API\obj\Debug\net6.0\ref\API.dll
+D:\DattingApp\API\bin\Debug\net6.0\Data\UserSeedData.json
+D:\DattingApp\API\bin\Debug\net6.0\AutoMapper.dll
+D:\DattingApp\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
