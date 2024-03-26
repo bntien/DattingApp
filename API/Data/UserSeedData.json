@@ -32,7 +32,7 @@
       "Country": "Kiribati",
       "Photos": [
         {
-          "Url": "https://randomuser.me/api/portraits/women/31.jpg",
+          "Url": "./assets/nucu.jpg",
           "IsMain": true
         }
       ]
@@ -51,7 +51,7 @@
       "Country": "Saint Vincent and The Grenadines",
       "Photos": [
         {
-          "Url": "https://randomuser.me/api/portraits/women/57.jpg",
+          "Url": "./assets/suzy.jpg",
           "IsMain": true
         }
       ]
@@ -70,7 +70,7 @@
       "Country": "Portugal",
       "Photos": [
         {
-          "Url": "https://randomuser.me/api/portraits/women/23.jpg",
+          "Url": "./assets/jisoo.jpg",
           "IsMain": true
         }
       ]
@@ -89,7 +89,7 @@
       "Country": "Cameroon",
       "Photos": [
         {
-          "Url": "https://randomuser.me/api/portraits/women/85.jpg",
+          "Url": "./assets/hh.jpg",
           "IsMain": true
         }
       ]
@@ -108,9 +108,11 @@
           "Country": "Djibouti",
           "Photos": [
             {
-              "Url": "https://randomuser.me/api/portraits/women/23.jpg",
+              "Url": "./assets/kk.jpg",
               "IsMain": true
             }
+            
+            
           ]
         },
         {
@@ -127,7 +129,7 @@
           "Country": "Nauru",
           "Photos": [
             {
-              "Url": "https://randomuser.me/api/portraits/women/53.jpg",
+              "Url": "https://randomuser.me/api/portraits/men/53.jpg",
               "IsMain": true
             }
           ]
@@ -146,7 +148,7 @@
           "Country": "Cameroon",
           "Photos": [
             {
-              "Url": "https://randomuser.me/api/portraits/women/3.jpg",
+              "Url": "./assets/hj.jpg",
               "IsMain": true
             }
           ]
@@ -165,7 +167,7 @@
           "Country": "British Indian Ocean Territory",
           "Photos": [
             {
-              "Url": "https://randomuser.me/api/portraits/women/3.jpg",
+              "Url": "./assets/vr.jpg",
               "IsMain": true
             }
           ]
@@ -184,7 +186,7 @@
           "Country": "Christmas Island",
           "Photos": [
             {
-              "Url": "https://randomuser.me/api/portraits/women/31.jpg",
+              "Url": "./assets/jack.jpg",
               "IsMain": true
             }
           ]

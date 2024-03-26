@@ -38,8 +38,7 @@ private readonly DataContext _context;
             var thingToReturn = thing.ToString();
 
             return thingToReturn;
-        } 
-        
+        }
 
         [HttpGet("bad-request")]
         public ActionResult<string> GetBadRequest()
