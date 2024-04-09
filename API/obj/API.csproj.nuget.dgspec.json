@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DattingApp\\API\\API.csproj": {}
+    "F:\\DattingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\DattingApp\\API\\API.csproj": {
+    "F:\\DattingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DattingApp\\API\\API.csproj",
+        "projectUniqueName": "F:\\DattingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\DattingApp\\API\\API.csproj",
+        "projectPath": "F:\\DattingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\ottti\\.nuget\\packages\\",
-        "outputPath": "D:\\DattingApp\\API\\obj\\",
+        "outputPath": "F:\\DattingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ottti\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -47,6 +47,10 @@
               "version": "[1.26.2, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.10, )"
             },
@@ -92,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.419\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.420\\RuntimeIdentifierGraph.json"
         }
       }
     }
